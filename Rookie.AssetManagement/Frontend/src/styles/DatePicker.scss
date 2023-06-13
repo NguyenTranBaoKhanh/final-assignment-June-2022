@@ -1,0 +1,21 @@
+.react-datepicker-wrapper {
+    width: 100%;
+}
+
+
+.date-picker {
+    margin-left: 5% !important;
+    padding: 0 !important;
+}
+
+.list__assignment {
+    input:focus {
+        outline: none !important
+    }
+}
+
+.calendar__date__fill {
+    position: relative !important;
+    top: -18% !important;
+    left: 18% !important
+}

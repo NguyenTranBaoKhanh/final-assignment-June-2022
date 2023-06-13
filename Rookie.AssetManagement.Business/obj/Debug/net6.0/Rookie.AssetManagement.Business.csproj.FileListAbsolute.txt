@@ -1,0 +1,68 @@
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.deps.json
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.dll
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.pdb
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Contracts.dll
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.DataAccessor.dll
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Contracts.pdb
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.DataAccessor.pdb
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.AssemblyReference.cache
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.AssemblyInfoInputs.cache
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.AssemblyInfo.cs
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.CoreCompileInputs.cache
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.CopyComplete
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.dll
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\refint\Rookie.AssetManagement.Business.dll
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.pdb
+D:\Rookie-final-assignment\batch5-git\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\ref\Rookie.AssetManagement.Business.dll
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.deps.json
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.dll
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.pdb
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Contracts.dll
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.DataAccessor.dll
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Contracts.pdb
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.DataAccessor.pdb
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.AssemblyReference.cache
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.AssemblyInfoInputs.cache
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.AssemblyInfo.cs
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.CoreCompileInputs.cache
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.CopyComplete
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.dll
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\refint\Rookie.AssetManagement.Business.dll
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.pdb
+D:\Rookie-final-assignment\batch5\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\ref\Rookie.AssetManagement.Business.dll
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.deps.json
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.dll
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.pdb
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Contracts.dll
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.DataAccessor.dll
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Contracts.pdb
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.DataAccessor.pdb
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.AssemblyReference.cache
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.AssemblyInfoInputs.cache
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.AssemblyInfo.cs
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.CoreCompileInputs.cache
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.CopyComplete
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.dll
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\refint\Rookie.AssetManagement.Business.dll
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.pdb
+c:\Users\Admin\Desktop\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\ref\Rookie.AssetManagement.Business.dll
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.deps.json
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.dll
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Business.pdb
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Contracts.dll
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.DataAccessor.dll
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.Contracts.pdb
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\bin\Debug\net6.0\Rookie.AssetManagement.DataAccessor.pdb
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.AssemblyReference.cache
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.AssemblyInfoInputs.cache
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.AssemblyInfo.cs
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.CoreCompileInputs.cache
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.csproj.CopyComplete
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.dll
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\refint\Rookie.AssetManagement.Business.dll
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\Rookie.AssetManagement.Business.pdb
+d:\The Rookies\Test\final-assignment-June-2022\Rookie.AssetManagement.Business\obj\Debug\net6.0\ref\Rookie.AssetManagement.Business.dll

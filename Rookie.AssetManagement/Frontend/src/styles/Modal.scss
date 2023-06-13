@@ -1,0 +1,42 @@
+.modal-90w {
+
+    .modal-header {
+        background-color: rgba(239,241,245,1);
+        
+        .modal-title {
+            color: rgba(207,35,56,1);
+            font-weight: bold;
+        }
+    }
+}
+
+.close-button{
+    color:#cf2338;
+    border:3px solid #cf2338;
+    line-height :0px;
+    height :22px;
+    border-radius:3px;
+    transform:translateY(10px);
+    font-size:20px;
+    padding:2px
+}
+
+.close-button i {
+    transform : translateY(-4px);
+}
+
+.asset-detail-modal {
+    max-width: 650px;
+}
+
+//border-radius-modal 
+.modal-content {
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 10px !important;
+    
+    .modal-header {
+        border-top-left-radius: 10px !important;
+        border-top-right-radius: 10px !important;
+    }
+}

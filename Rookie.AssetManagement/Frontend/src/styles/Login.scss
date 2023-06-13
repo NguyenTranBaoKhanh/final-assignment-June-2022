@@ -1,0 +1,47 @@
+#login-modal {
+    top: 20%;
+    .modal-content {
+        border: none;
+        background: none;
+    }
+    
+    .modal-header {
+        border-radius: 8px 8px 6px 6px;
+    }
+
+    .modal-title {
+        font-size: 20px;
+        margin-left: 10%
+    }
+
+    .modal-body {
+        border-radius: 0 0 10px 10px;
+        background-color: white;
+    }
+
+    border-radius: 5px;
+}
+
+#logo-login {
+    margin-left: 8%;
+    margin-right: 7%;
+    width: 10%;
+}
+#icon-show-password {
+    cursor: pointer;
+    margin-top: -9%;
+    float: right;
+    margin-right: 10%;
+}
+
+.btn-login {
+    margin-left: 75%;
+}
+
+#userName {
+    padding-right: 17%;
+}
+
+#password {
+    padding-right: 17%;
+}
